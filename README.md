@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/arifulnoman/LeetCode/tree/master/0179-largest-number) |
+| [1256-rank-transform-of-an-array](https://github.com/arifulnoman/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arifulnoman/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/arifulnoman/LeetCode/tree/master/0179-largest-number) |
+| [1256-rank-transform-of-an-array](https://github.com/arifulnoman/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -63,5 +65,6 @@
 ## Hash Table
 |  |
 | ------- |
+| [1256-rank-transform-of-an-array](https://github.com/arifulnoman/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arifulnoman/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
