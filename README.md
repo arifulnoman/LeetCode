@@ -17,6 +17,7 @@
 | [1002-maximum-width-ramp](https://github.com/arifulnoman/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/arifulnoman/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/arifulnoman/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arifulnoman/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arifulnoman/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
@@ -74,6 +75,7 @@
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/arifulnoman/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/arifulnoman/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arifulnoman/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arifulnoman/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/arifulnoman/LeetCode/tree/master/1002-maximum-width-ramp) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arifulnoman/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
