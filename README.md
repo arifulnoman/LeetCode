@@ -28,6 +28,7 @@
 | [0214-shortest-palindrome](https://github.com/arifulnoman/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arifulnoman/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arifulnoman/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/arifulnoman/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arifulnoman/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arifulnoman/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arifulnoman/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
