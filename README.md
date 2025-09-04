@@ -5,6 +5,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/arifulnoman/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/arifulnoman/LeetCode/tree/master/3017-number-of-beautiful-integers-in-the-range) |
+| [3830-find-closest-person](https://github.com/arifulnoman/LeetCode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
